@@ -1,0 +1,185 @@
+curl 'https://uploadgram.me/upload' \
+  -H 'authority: uploadgram.me' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'referer: https://uploadgram.me/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-modified-since: Wed, 21 Apr 2021 16:05:32 GMT' \
+  --compressed ;
+curl 'https://uploadgram.me/upload/' \
+  -H 'authority: uploadgram.me' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'referer: https://uploadgram.me/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-modified-since: Wed, 21 Apr 2021 16:05:32 GMT' \
+  --compressed ;
+curl 'https://uploadgram.me/upload/main.dart.js' \
+  -H 'authority: uploadgram.me' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: script' \
+  -H 'referer: https://uploadgram.me/upload/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: W/"60804d4a-1e612b"' \
+  -H 'if-modified-since: Wed, 21 Apr 2021 16:05:30 GMT' \
+  --compressed ;
+curl 'https://localhost:3131/uploadgram.me.js' \
+  -H 'Accept: text/plain, */*; q=0.01' \
+  -H 'Referer: https://uploadgram.me/upload/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/runScript.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://unpkg.com/canvaskit-wasm@0.24.0/bin/canvaskit.js' \
+  -H 'Referer: https://uploadgram.me/upload/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://unpkg.com/canvaskit-wasm@0.24.0/bin/canvaskit.wasm' \
+  -H 'Referer: https://uploadgram.me/upload/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://uploadgram.me/favicon.ico' \
+  -H 'authority: uploadgram.me' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: image' \
+  -H 'referer: https://uploadgram.me/upload/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: W/"60802a7a-3d62"' \
+  -H 'if-modified-since: Wed, 21 Apr 2021 13:36:58 GMT' \
+  --compressed ;
+curl 'https://uploadgram.me/upload/manifest.json' \
+  -H 'authority: uploadgram.me' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://uploadgram.me/upload/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: W/"60804d4c-394"' \
+  -H 'if-modified-since: Wed, 21 Apr 2021 16:05:32 GMT' \
+  --compressed ;
+curl 'https://uploadgram.me/upload/assets/FontManifest.json' \
+  -H 'authority: uploadgram.me' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://uploadgram.me/upload/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: W/"60804d4b-52"' \
+  -H 'if-modified-since: Wed, 21 Apr 2021 16:05:31 GMT' \
+  --compressed ;
+curl 'https://uploadgram.me/icons/uploadgram-logo.svg' \
+  -H 'authority: uploadgram.me' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: image' \
+  -H 'referer: https://uploadgram.me/upload/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: W/"60802a7a-466"' \
+  -H 'if-modified-since: Wed, 21 Apr 2021 13:36:58 GMT' \
+  --compressed ;
+curl 'https://uploadgram.me/upload/assets/fonts/MaterialIcons-Regular.otf' \
+  -H 'authority: uploadgram.me' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://uploadgram.me/upload/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'if-none-match: "60804d4c-e07b0"' \
+  -H 'if-modified-since: Wed, 21 Apr 2021 16:05:32 GMT' \
+  --compressed ;
+curl 'https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Me5WZLCzYlKw.ttf' \
+  -H 'Referer: https://uploadgram.me/upload/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://api.uploadgram.me/status' \
+  -X 'HEAD' \
+  -H 'authority: api.uploadgram.me' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'origin: https://uploadgram.me' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://uploadgram.me/upload/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://uploadgram.me/favicon.ico' \
+  -H 'Referer: https://uploadgram.me/upload/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://uploadgram.me/favicon.ico' \
+  -H 'Referer: https://uploadgram.me/upload/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://api.uploadgram.me/status' \
+  -X 'HEAD' \
+  -H 'authority: api.uploadgram.me' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'origin: https://uploadgram.me' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://uploadgram.me/upload/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://api.uploadgram.me/upload' \
+  -X 'OPTIONS' \
+  -H 'authority: api.uploadgram.me' \
+  -H 'accept: */*' \
+  -H 'access-control-request-method: POST' \
+  -H 'origin: https://uploadgram.me' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://uploadgram.me/upload/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://api.uploadgram.me/upload' \
+  -H 'authority: api.uploadgram.me' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: multipart/form-data; boundary=----WebKitFormBoundaryr6jr6oHrL8NUvKcP' \
+  -H 'accept: */*' \
+  -H 'origin: https://uploadgram.me' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://uploadgram.me/upload/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  --data-raw $'------WebKitFormBoundaryr6jr6oHrL8NUvKcP\r\nContent-Disposition: form-data; name="file_size"\r\n\r\n773900\r\n------WebKitFormBoundaryr6jr6oHrL8NUvKcP\r\nContent-Disposition: form-data; name="file_upload"; filename="Focal-Fossa-wallpaper.jpg"\r\nContent-Type: image/jpeg\r\n\r\n\r\n------WebKitFormBoundaryr6jr6oHrL8NUvKcP--\r\n' \
+  --compressed
